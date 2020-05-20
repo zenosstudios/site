@@ -56,7 +56,12 @@ body > a {
 
 .content {
     margin-left: 5%;
+    text-align: center;
     margin-right: 5%;
+}
+
+#game-dev {
+    text-align: center;
 }
 
 .content > #game-dev > a {
