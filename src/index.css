@@ -55,3 +55,6 @@ body > a {
     text-decoration: none;
 }
 
+#foss > img {
+    margin-bottom: 1px;
+}
