@@ -1,0 +1,22 @@
+html {
+    background-color: #1d1d1d;
+}
+
+body {
+    color: #fff;
+    font-family: 'Roboto', sans-serif, 'Times New Roman';
+}
+
+body > hr {
+    width: 50%;
+    margin-left: 0;
+}
+
+body > a {
+    font-size: 1rem;
+}
+
+header {
+    margin: 0 auto;
+    text-align: center;
+}
