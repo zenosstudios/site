@@ -16,6 +16,10 @@ body > a {
     font-size: 1rem;
 }
 
+.content > #game-dev > a {
+    text-decoration: none;
+}
+
 header {
     margin: 0 auto;
     text-align: center;
