@@ -27,6 +27,15 @@ header {
     font-size: 1rem;
     margin-left: auto;
     margin-right: auto;
+
+}
+
+.contact > a > img {
+    filter: brightness(85%);
+}
+
+.contact > a > img:hover {
+    filter: brightness(1000%);
 }
 
 .contact > a:focus {
@@ -64,26 +73,18 @@ body > a {
     text-align: center;
 }
 
-.content > #game-dev > a {
-    text-align: center;
-    text-decoration: none;
+a {
+    color: white;
 }
-
-.content > #game-dev > a:focus {
+a:focus {
     outline:none;
 }
 
-.content > #game-dev > img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+#programming > img {
+    border: 0.5px solid white;
 }
 
-
-.content > div > h2 {
+footer > p {
     text-align: center;
-}
-
-#foss > img {
-    margin-bottom: 1px;
+    font-size:12px;
 }
