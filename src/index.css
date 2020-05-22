@@ -7,15 +7,15 @@ header {
     text-align: center;
 }
 
+img {
+    max-width: 100%;
+}
+
 .contact {
     display: block;
     text-align: center;
     margin-left: auto;
     margin-right: center;
-}
-
-.contact > a {
-    margin: 0 15px;
 }
 
 .contact > p {
@@ -28,6 +28,7 @@ header {
 
 .contact > a {
     text-decoration: none;
+    margin: 0 15px;
 }
 
 .contact > a > img {
@@ -47,16 +48,16 @@ body {
     font-family: 'Roboto', sans-serif, 'Times New Roman';
 }
 
-body > hr {
+.description > hr {
     width: 50%;
+}
+
+.description > p {
+    text-align: center;
 }
 
 .content > hr {
     width: 50%;
-}
-
-body > p {
-    text-align: center;
 }
 
 body > a {
@@ -64,13 +65,9 @@ body > a {
 }
 
 .content {
-    margin-left: 20%;
     text-align: center;
-    margin-right: 20%;
-}
-
-#game-dev {
-    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 a {
