@@ -8,8 +8,14 @@ header {
 }
 
 .contact {
-    display: flex;
+    display: block;
     text-align: center;
+    margin-left: auto;
+    margin-right: center;
+}
+
+.contact > a {
+    margin: 0 15px;
 }
 
 .contact > p {
@@ -21,13 +27,7 @@ header {
 }
 
 .contact > a {
-    display: block;
-    padding: 0;
     text-decoration: none;
-    font-size: 1rem;
-    margin-left: auto;
-    margin-right: auto;
-
 }
 
 .contact > a > img {
