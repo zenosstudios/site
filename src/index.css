@@ -11,6 +11,10 @@ img {
     max-width: 100%;
 }
 
+h1 {
+    font-size: 2rem;
+}
+
 .contact {
     display: block;
     text-align: center;
