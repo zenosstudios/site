@@ -35,7 +35,7 @@ header {
 }
 
 .contact > a > img:hover {
-    filter: brightness(1000%);
+    filter: brightness(100%);
 }
 
 .contact > a:focus {
@@ -64,9 +64,9 @@ body > a {
 }
 
 .content {
-    margin-left: 5%;
+    margin-left: 20%;
     text-align: center;
-    margin-right: 5%;
+    margin-right: 20%;
 }
 
 #game-dev {
