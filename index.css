@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url(assets/fonts/jbm.ttf);
+}
+
+* {
+    /* Color theme */
+    background-color: #1f1f1f;
+    color: white;
+
+    font-family: 'JetBrains Mono', Tahoma, Arial;
+
+    /* Wrap the body */
+    max-width: 800px;
+
+    /* Center the body */
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: justify;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+#footer > p {
+    line-height: 0;
+    text-align: center;
+}
