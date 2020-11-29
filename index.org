@@ -1,4 +1,4 @@
-#+title: A farewell to mice
+#+title: Too much
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -10,7 +10,7 @@
 
 # BEGIN_BODY
 
-Thanks to the past two months learning Vim and Emacs and getting all obsessed with keyboard-driven workflows, I now renounce my usage of the unholy mouse.
+I should look at something other than a digital screen.
 
 # END_BODY
 
