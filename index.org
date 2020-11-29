@@ -1,4 +1,4 @@
-#+title: Too much
+#+title: A Night in the Woods
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -10,7 +10,11 @@
 
 # BEGIN_BODY
 
-I should look at something other than a digital screen.
+Watched Let's Play of Night in the Woods 2 times over. One on Jackscepticeye's channel 2 years ago and one by ManlyBadassHero last year. Only got around to playing it now. Doesn't matter too much as I've basically forgotten everything by now.
+
+Even if you /know/ the story and what happens, you will never /understand/ the story unless you get to experience it yourself i.e *playing the goddamn game yourself*.
+
+[[file:2020-11-29_21-47-58_29-11-2020-21_47_40-Greenshot.png]]
 
 # END_BODY
 
