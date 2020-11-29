@@ -1,4 +1,4 @@
-#+title: Emacs
+#+title: A farewell to mice
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -10,7 +10,7 @@
 
 # BEGIN_BODY
 
-I am now obsessed with Emacs. So much that it's replacing Visual Studio Code for me.
+Thanks to the past two months learning Vim and Emacs and getting all obsessed with keyboard-driven workflows, I now renounce my usage of the unholy mouse.
 
 # END_BODY
 
