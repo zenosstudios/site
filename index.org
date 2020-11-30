@@ -1,4 +1,4 @@
-#+title: A Night in the Woods
+#+title: ILOVERINTEZUKA
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -7,19 +7,27 @@
 # Use CSS
 #+html: <link rel="stylesheet" type="text/css" href="index.css"/>
 
+-----
 
 # BEGIN_BODY
 
-Watched Let's Play of Night in the Woods 2 times over. One on Jackscepticeye's channel 2 years ago and one by ManlyBadassHero last year. Only got around to playing it now. Doesn't matter too much as I've basically forgotten everything by now.
+>Make a game entirely with strangers on the Internet
 
-Even if you /know/ the story and what happens, you will never /understand/ the story unless you get to experience it yourself i.e *playing the goddamn game yourself*.
+>After all the hardships and endless fights, 5 years later, you finish the game
 
-[[file:2020-11-29_21-47-58_29-11-2020-21_47_40-Greenshot.png]]
+>Release day comes, you're so happy
+
+>You can finally relax now, anon
+
+>Two days later
+
+>This
+
+#+html:<iframe width="560" height="315" src="https://www.youtube.com/embed/grP6Z0tMmYM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What a legend.
 
 # END_BODY
 
-
-
-
-
+-----
 #+html: <div id="footer"><a href="https://github.com/tghgg" target="_blank">GitHub</a> - <a href="https://twitter.com/tg_hgg" target="_blank">Twitter</a> - <a href="https://falling-snowdin.itch.io/" target="_blank">itch.io</a><br><p>fsnowdin</p></div>
