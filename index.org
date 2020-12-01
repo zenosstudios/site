@@ -1,4 +1,4 @@
-#+title: ILOVERINTEZUKA
+#+title: Sanctuary
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -9,23 +9,14 @@
 
 -----
 
+
 # BEGIN_BODY
 
->Make a game entirely with strangers on the Internet
+Almost 10 years later, the magnificent song from Kingdom Hearts II always manage to make me weep a bit. Damn, the feels. Even among the truly great games I have played, Kingdom Hearts II was straight up on a whole another level.
 
->After all the hardships and endless fights, 5 years later, you finish the game
+https://youtu.be/kT-YtuzNqIY
 
->Release day comes, you're so happy
-
->You can finally relax now, anon
-
->Two days later
-
->This
-
-#+html:<iframe width="560" height="315" src="https://www.youtube.com/embed/grP6Z0tMmYM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-What a legend.
+Had to hyperlink instead of embed the video because, y'know, copyright.
 
 # END_BODY
 
