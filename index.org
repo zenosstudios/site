@@ -1,4 +1,4 @@
-#+title: Sanctuary
+#+title: Air Guitar
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -9,14 +9,13 @@
 
 -----
 
-
 # BEGIN_BODY
 
-Almost 10 years later, the magnificent song from Kingdom Hearts II always manage to make me weep a bit. Damn, the feels. Even among the truly great games I have played, Kingdom Hearts II was straight up on a whole another level.
+This song from Katawa Shoujo is so short, yet even after hundreds (possibly thousands) of listens I still find it as calming and enjoyable as the first time I listened to it. A timeless song.
 
-https://youtu.be/kT-YtuzNqIY
+/Air Guitar is seriously underrated./
 
-Had to hyperlink instead of embed the video because, y'know, copyright.
+#+html:<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/65394949&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fourleafstudios" title="Four Leaf Studios" target="_blank" style="color: #cccccc; text-decoration: none;">Four Leaf Studios</a> · <a href="https://soundcloud.com/fourleafstudios/2-04-air-guitar" title="Air Guitar" target="_blank" style="color: #cccccc; text-decoration: none;">Air Guitar</a></div>
 
 # END_BODY
 
