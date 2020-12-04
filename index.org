@@ -1,4 +1,4 @@
-#+title: Visual Studio
+#+title: Sleepy
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -11,7 +11,7 @@
 
 # BEGIN_BODY
 
-TIL: It's a huge fucking mess trying to do work in this thing. I'm moving to greener pastures now, i.e *JetBrains Rider*.
+Perhaps it's just me, but it's not often your body just screams for sleep after a workday. And here I thought I still had some energy left for some side projects. Oh well.
 
 
 # END_BODY
