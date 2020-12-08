@@ -1,4 +1,4 @@
-#+title: Sleepy
+#+title: The Hard Life
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -11,8 +11,7 @@
 
 # BEGIN_BODY
 
-Perhaps it's just me, but it's not often your body just screams for sleep after a workday. And here I thought I still had some energy left for some side projects. Oh well.
-
+Coded seriously for the first time without auto-completion today, mostly because I couldn't set up Emacs properly for C# at work. It's certainly a unique experience. No more nagging for autocompletion, no more red squiggly lines, no more distractions from the tiny details so you can focus on the overall structure of the program. Doing it like this feels like a new yet immeasurably old workflow, one that has been lost to time due to the rise of Intellisense.
 
 # END_BODY
 
