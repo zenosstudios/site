@@ -1,4 +1,4 @@
-#+title: Last Stretch?
+#+title: FOMO
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -11,7 +11,9 @@
 
 # BEGIN_BODY
 
-In the last stretch of the development process maybe. Hopefully it's gonna be all okay.
+Re-thinking how to balance keeping up with stuff and trying to do something worthwhile.
+
+It's pretty hard.
 
 # END_BODY
 
