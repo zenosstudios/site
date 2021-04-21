@@ -1,4 +1,4 @@
-#+title: FOMO
+#+title: Musically
 #+author: fsnowdin
 
 # Disable the auto-generated footer
@@ -11,10 +11,8 @@
 
 # BEGIN_BODY
 
-Re-thinking how to balance keeping up with stuff and trying to do something worthwhile.
-
-It's pretty hard.
+A musician at times.
 
 # END_BODY
 
-#+html: <div id="footer"><hr><br><a href="https://github.com/fsnowdin" target="_blank">GitHub</a> - <a href="https://twitter.com/fsnowdin" target="_blank">Twitter</a> - <a href="https://fsnowdin.itch.io/" target="_blank">itch.io</a><br><p>fsnowdin</p></div>
+#+html: <div id="footer"><hr><br><a href="https://github.com/fsnowdin" target="_blank">GitHub</a> - <a href="https://twitter.com/fsnowdin" target="_blank">Twitter</a> - <a href="https://fsnowdin.itch.io/" target="_blank">itch.io</a> - <a href="https://soundcloud.com/falling_snowdin" target="_blank">SoundCloud</a><br><p>fsnowdin</p></div>
